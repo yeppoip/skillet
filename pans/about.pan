@@ -1,0 +1,5 @@
+print("Push Terminal v1.0")
+print("A simple command-line interface for system operations.")
+print("Supports Windows and Linux platforms.")
+print("Features: fetch, apps, python, plugins, commandlets, and more.")
+input("Press Enter to continue...")

@@ -1,0 +1,1 @@
+print("Commandlets for push are functions that run in .pan files to make a commandlet use commandlet.pan open in your text editor and write python code")
